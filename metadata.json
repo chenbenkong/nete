@@ -1,0 +1,5 @@
+{
+  "name": "全球电台 & AI 洞察",
+  "description": "互动式3D地球仪。点击任何国家即可收听当地广播电台，并通过 Gemini AI 了解当地的音乐文化。",
+  "requestFramePermissions": []
+}
